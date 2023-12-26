@@ -19,8 +19,6 @@ build/
 *.iml
 *.ipr
 out/
-data/
-Dockerfile
 
 ### NetBeans ###
 /nbproject/private/
@@ -45,3 +43,4 @@ Dockerfile
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+/data
